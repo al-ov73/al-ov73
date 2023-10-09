@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Skills
+### My skills
 
 
 <p align="left">
