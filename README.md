@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I’m currently learning for Python-developer
 <!--
 **al-ov73/al-ov73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
