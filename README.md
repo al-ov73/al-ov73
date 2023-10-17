@@ -1,4 +1,4 @@
-### Hello! I'm study in Hexlet for Python-developer.
+### Hello! I'm studying at Hexlet for Python-developer.
 
 ### My skills
 
