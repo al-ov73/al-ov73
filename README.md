@@ -20,7 +20,7 @@
 
 <a href="http://www.github.com/al-ov73"><img src="https://github-readme-stats.vercel.app/api?username=al-ov73&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="al-ov73's GitHub stats" /></a>
 
-<a href="http://www.github.com/al-ov73"><img src="https://github-readme-streak-stats.herokuapp.com/?user=al-ov73&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<b>LeetCode</b>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=al-ov73&theme=dark)](https://github.com/al-ov73/leetcode-stats)
 
