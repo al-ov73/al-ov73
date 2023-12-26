@@ -36,7 +36,7 @@
 <br />
   <a href="https://www.litres.ru/book/barbara-oakli/dumay-kak-matematik-kak-reshat-lubye-zadachi-bystree-i-effek-15561452/">Барбара Оакли "Думай как математик: Как решать любые задачи быстрее и эффективнее"</a>
 <br />
-  <a href="https://www.litres.ru/book/aditya-bhargava/grokaem-algoritmy-illustrirovannoe-posobie-dlya-programmis-39158380/">Адитья Бхаргава "Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих"  (in progress ... )</a>
+  <a href="https://www.litres.ru/book/aditya-bhargava/grokaem-algoritmy-illustrirovannoe-posobie-dlya-programmis-39158380/">Адитья Бхаргава "Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих"</a>
 
 <b>My GitHub Stats</b>
 
