@@ -19,14 +19,25 @@
   <a href="https://github.com/al-ov73/python-project-83" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=al-ov73&repo=python-project-83&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a>
   
 </div><br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center">
-    <a href="https://github.com/al-ov73/python-project-50" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=al-ov73&repo=python-project-50&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a>
-  
-  <a href="https://github.com/al-ov73/python-project-49" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=al-ov73&repo=python-project-49&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a>
-  
-  </div><br /><br /><br /><br /><br /><br /><br />
-
+<b>Pet-проекты</b>
+<br />
+ <a href="https://github.com/al-ov73/python-project-50">Generate diff</a>
+Generate difference between 2 JSON/YAML files
+<br />
+  <a href="https://github.com/al-ov73/python-project-49">Brain Games</a>
+5 CLI brain-games
+ <br />
+   <a href="https://github.com/al-ov73/parser">Site Parser</a>
+Parser of websites (using Selenium lib)
+ <br />
+   <a href="https://github.com/al-ov73/currency_converter">Currency Converter</a>
+Simple currency converter (Django)
+ <br /><br />
+ 
+<b>OpenSource-проекты</b><br />
+ <a href="https://github.com/al-ov73/hexlet-friends">Hexlet-Friends</a>
+Track contributions from members of the Hexlet community
+ <br />
 
 <b>LeetCode</b>
 
@@ -37,6 +48,9 @@
   <a href="https://www.litres.ru/book/barbara-oakli/dumay-kak-matematik-kak-reshat-lubye-zadachi-bystree-i-effek-15561452/">Барбара Оакли "Думай как математик: Как решать любые задачи быстрее и эффективнее"</a>
 <br />
   <a href="https://www.litres.ru/book/aditya-bhargava/grokaem-algoritmy-illustrirovannoe-posobie-dlya-programmis-39158380/">Адитья Бхаргава "Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих"</a>
+<br />
+  <a href="https://www.litres.ru/book/pol-berri/izuchaem-programmirovanie-na-python-25562287/">Пол Бэрри "Изучаем программирование на Python"</a>
+
 
 <b>My GitHub Stats</b>
 
