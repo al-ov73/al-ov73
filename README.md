@@ -39,6 +39,12 @@ Simple currency converter (Django)
 Track contributions from members of the Hexlet community
  <br />
 
+<b>Полезные Reps</b><br />
+ <a href="https://replit.com/@AlieksandrOviec/DesignPatterns?v=1">Паттерны ООП</a>
+Примеры паттернов проектирования ООП
+ <br />
+ 
+
 <b>LeetCode</b>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=al-ov73&theme=dark)](https://github.com/al-ov73/leetcode-stats)
