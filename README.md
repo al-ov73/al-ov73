@@ -39,11 +39,13 @@ Simple currency converter (Django)
 Track contributions from members of the Hexlet community
  <br />
 
-<b>Полезные Reps</b><br />
+<b>Полезное с моего <a href="https://replit.com/@AlieksandrOviec">Replit</a></b><br />
  <a href="https://replit.com/@AlieksandrOviec/DesignPatterns?v=1">Паттерны ООП</a>
 Примеры паттернов проектирования ООП
  <br />
- 
+  <a href="https://replit.com/@AlieksandrOviec/LinkedList?v=1">LinkedList</a>
+Методы для работы с LinkedList
+ <br />
 
 <b>LeetCode</b>
 
