@@ -22,11 +22,17 @@
 <b>Pet-проекты</b>
 <br />
  <a href="https://github.com/al-ov73/python-project-50">Generate diff</a>
-Generate difference between 2 JSON/YAML files
+Generate difference between 2 JSON/YAML files (Python)
+<br />
+ <a href="https://github.com/al-ov73/frontend-project-46">Generate diff</a>
+Generate difference between 2 JSON/YAML files (JavScript)
 <br />
   <a href="https://github.com/al-ov73/python-project-49">Brain Games</a>
-5 CLI brain-games
+5 CLI brain-games (Python)
  <br />
+  <a href="https://github.com/al-ov73/frontend-project-44">Brain Games</a>
+5 CLI brain-games (JavaScript))
+<br />
    <a href="https://github.com/al-ov73/parser">Site Parser</a>
 Parser of websites (using Selenium lib)
  <br />
