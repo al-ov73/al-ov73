@@ -38,6 +38,9 @@ Parser of websites (using Selenium lib)
  <br />
    <a href="https://github.com/al-ov73/currency_converter">Currency Converter</a>
 Simple currency converter (Django)
+ <br />
+   <a href="https://github.com/al-ov73/simple-time-tracker">Simple time tracker</a>
+Simple task tracker (Django / JavaScript)
  <br /><br />
  
 <b>OpenSource-проекты</b><br />
