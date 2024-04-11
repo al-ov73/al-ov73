@@ -2,7 +2,7 @@
 
  <br /><a href="https://disk.yandex.ru/client/disk/Hexlet?idApp=client&dialog=slider&idDialog=%2Fdisk%2FHexlet%2FAlexander_Ovechkin_Python_en.png">Hexlet certificate "Python-developer"</a><br />
 
-<b>My skills</b>
+<b>Stack</b>
 
 
 <p align="left">
@@ -21,11 +21,14 @@
 </div><br /><br /><br /><br /><br /><br /><br />
 <b>Pet-проекты</b>
 <br />
+ <a href="https://github.com/al-ov73/frontend-project-11">RSS Agregator</a>
+Service to agregate content from RSS-channels (JavaScript)
+<br />
  <a href="https://github.com/al-ov73/python-project-50">Generate diff</a>
 Generate difference between 2 JSON/YAML files (Python)
 <br />
  <a href="https://github.com/al-ov73/frontend-project-46">Generate diff</a>
-Generate difference between 2 JSON/YAML files (JavScript)
+Generate difference between 2 JSON/YAML files (JavaScript)
 <br />
   <a href="https://github.com/al-ov73/python-project-49">Brain Games</a>
 5 CLI brain-games (Python)
