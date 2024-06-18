@@ -21,6 +21,9 @@
 </div><br /><br /><br /><br /><br /><br /><br />
 <b>Pet-проекты</b>
 <br />
+ <a href="https://github.com/al-ov73/frontend-project-12">Slack-like chat</a>
+Chat with channels management (JavaScript - React)
+<br />
  <a href="https://github.com/al-ov73/frontend-project-11">RSS Agregator</a>
 Service to agregate content from RSS-channels (JavaScript)
 <br />
