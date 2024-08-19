@@ -7,9 +7,9 @@
 
 <b>Top Repositories</b>
 <div width="100%" align="center">
-  <a href="https://github.com/al-ov73/mems-storage" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=al-ov73&repo=python-project-83&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/al-ov73/mems-storage" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=al-ov73&repo=mems-storage&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a>
  
-  <a href="https://github.com/al-ov73/python-project-52" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=al-ov73&repo=mems-storage&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/al-ov73/python-project-52" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=al-ov73&repo=python-project-83&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a>
   
 </div><br /><br /><br /><br /><br /><br /><br />
 <b>Pet-проекты</b>
