@@ -14,8 +14,12 @@
 </div><br /><br /><br /><br /><br /><br /><br />
 <b>Pet-проекты</b>
 <br />
- <a href="https://github.com/al-ov73/mems-storage">Mems storage</a>
-Storage for mems (microservices: React-frontend, FastApi-Api, FastApi-StorageApi, S3 Minio, Postgress)
+
+ <a href="https://github.com/al-ov73/python-project-83">Page CEO analizer</a>
+Service to analize tags of pages (Python-Flask)
+<br />
+ <a href="https://github.com/al-ov73/yadisk_download">Yandex disk downloader</a>
+Service to download files from Yandex-disk via publc links (Django-React)
 <br />
  <a href="https://github.com/al-ov73/frontend-project-12">Slack-like chat</a>
 Chat with channels management (JavaScript - React)
@@ -33,7 +37,7 @@ Generate difference between 2 JSON/YAML files (JavaScript)
 5 CLI brain-games (Python)
  <br />
   <a href="https://github.com/al-ov73/frontend-project-44">Brain Games</a>
-5 CLI brain-games (JavaScript))
+5 CLI brain-games (JavaScript)
 <br />
    <a href="https://github.com/al-ov73/parser">Site Parser</a>
 Parser of websites (using Selenium lib)
