@@ -65,7 +65,8 @@ Track contributions from members of the Hexlet community
 <b>LeetCode</b>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/al-ov73?theme=nord)](https://leetcode.com/al-ov73)
-<b>Books</b>
+<br/><br/>
+<b>Read books</b>
 <br />
   <a href="https://www.litres.ru/book/barbara-oakli/dumay-kak-matematik-kak-reshat-lubye-zadachi-bystree-i-effek-15561452/">Барбара Оакли "Думай как математик: Как решать любые задачи быстрее и эффективнее"</a>
 <br />
