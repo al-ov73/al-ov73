@@ -1,4 +1,4 @@
-### Inspired Python/js-developer.
+### Inspired Python/JS-developer.
 
  <br /><a href="https://disk.yandex.ru/client/disk/Hexlet?idApp=client&dialog=slider&idDialog=%2Fdisk%2FHexlet%2FAlexander_Ovechkin_Python_en.png">Hexlet certificate "Python-developer"</a><br />
 
