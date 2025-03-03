@@ -16,6 +16,9 @@
  <a href="https://github.com/al-ov73/python-project-52">Task manager</a>
 Task manager with labels and statuses (CRUD, Django-Postgres)
 <br />
+ <a href="https://github.com/al-ov73/cafe-orders">Сafe-orders</a>
+Cafe orders management (CRUD, Django-Postgres)
+<br />
  <a href="https://github.com/al-ov73/python-project-83">Page CEO analizer</a>
 Service to analize tags of pages (Python-Flask)
 <br />
@@ -62,6 +65,14 @@ Track contributions from members of the Hexlet community
   <a href="https://replit.com/@AlieksandrOviec/LinkedList?v=1">LinkedList</a>
 Методы для работы с LinkedList
  <br />
+
+<b>Полезное</b><br />
+ <a href="https://github.com/al-ov73/EbookFoundation-free-programming-books/blob/master/free-programming-books-ru.md">Книги про программирование</a>
+ <br />
+ <a href="https://github.com/al-ov73/python_interview_questions">Вопросы с собеседований по Python</a>
+ <br />
+ 
+
 
 <b>LeetCode</b>
 
