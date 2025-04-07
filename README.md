@@ -80,12 +80,24 @@ Track contributions from members of the Hexlet community
 <br/><br/>
 <b>Read books</b>
 <br />
-  <a href="https://www.litres.ru/book/barbara-oakli/dumay-kak-matematik-kak-reshat-lubye-zadachi-bystree-i-effek-15561452/">Барбара Оакли "Думай как математик: Как решать любые задачи быстрее и эффективнее"</a>
-<br />
-  <a href="https://www.litres.ru/book/aditya-bhargava/grokaem-algoritmy-illustrirovannoe-posobie-dlya-programmis-39158380/">Адитья Бхаргава "Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих"</a>
-<br />
-  <a href="https://www.litres.ru/book/pol-berri/izuchaem-programmirovanie-na-python-25562287/">Пол Бэрри "Изучаем программирование на Python"</a>
 
+<div>
+    <span style="padding: 30px;">
+     <img width="200" src="https://ir.ozone.ru/s3/multimedia-4/wc1000/6379813468.jpg" />
+    </span>
+    <span style="padding: 30px;">
+     <img width="200" src="https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7025208854.jpg" />
+    </span>
+    <span style="padding: 30px;">
+     <img width="200" src="https://ir.ozone.ru/s3/multimedia-0/wc1000/6161061840.jpg" />
+    </span>
+    <span style="padding: 30px;">
+     <img width="200" src="https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7382052335.jpg" />
+    </span>
+    <span style="padding: 30px;">
+     <img width="200" src="https://content.img-gorod.ru/pim/products/images/a2/51/01907865-5664-7c70-b311-4978e038a251.jpg?width=304&height=438&fit=bounds" />
+    </span>
+</div>
 
 <b>My GitHub Stats</b>
 
