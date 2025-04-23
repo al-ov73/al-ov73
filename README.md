@@ -100,6 +100,9 @@ Track contributions from members of the Hexlet community
      <span style="padding: 30px;">
      <img width="200" height="300" src="https://ir.ozone.ru/multimedia/wc1000/1014915770.jpg" />
     </span>
+     <span style="padding: 30px;">
+     <img width="200" height="300" src="https://ir.ozone.ru/multimedia/wc1000/1025515582.jpg" />
+    </span>
 </div>
 
 <b>My GitHub Stats</b>
